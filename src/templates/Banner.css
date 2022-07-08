@@ -1,0 +1,12 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.banner-bg {
+    height: 500px;
+    background: url("https://www.potatotechs.com/wp-content/uploads/2018/04/asdasd-07.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+

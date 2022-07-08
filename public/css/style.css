@@ -1,0 +1,22 @@
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-image-1{
+    background-image: url('/image/Screenshot\ 2022-06-30\ 000455.png');
+    background-size: cover;
+}
+
+.carousel-image-2{
+    background-image: url('/image/Screenshot\ 2022-06-30\ 000525.png');
+    background-size: cover;
+}
+
+.carousel-image-3{
+    background-image: url('/image/sh1.png');
+    background-size: cover;
+}
+
+.icon-user{
+    height: 10px;
+}
